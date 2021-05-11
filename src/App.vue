@@ -3,15 +3,12 @@
     <box />
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-    <img />
+    <Img />
   </div>
 </template>
 
 <script>
 import Box from "../src/components/Box";
-import HelloWorld from "./components/HelloWorld.vue";
 import HelloWorld from "./components/HelloWorld.vue";
 import Img from "./components/Img.vue";
 
